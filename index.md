@@ -21,7 +21,7 @@ At IBM, I am involved in documentation for the AIX operating system, running on 
 - Facilitate reviews to ensure technical accuracy and high quality of the documentation.
 - Mentor and support new team members by creating learning plans, to help them understand the tools and processes in the team.
 
-As part of my additional responibilities, I have:
+As part of my additional responsibilities, I have:
 
 - Contributed to a Lean - Kaizen project to improve the on-time delivery of project deliverables.
 - Conducted phone screenings and facilitated tests for prospective technical writing candidates.
