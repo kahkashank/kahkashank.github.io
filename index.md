@@ -62,9 +62,9 @@ At The Writers Block, I also managed small teams of technical writers and develo
 ### Work Samples ##
 
 - [Managing the virtualization environment](https://www.ibm.com/support/knowledgecenter/en/POWER9/p9efd/p9efd_kickoff.htm) ([PDF](http://public.dhe.ibm.com/systems/power/docs/hw/p9/p9efd.pdf))
-- [Virtual I/O Server Performance advisor reports] (https://www.ibm.com/support/knowledgecenter/en/POWER9/p9hb1/p9hb1_vios_perf_adv_reports.htm)
-- [Scenario: Configuring Multi-Path I/O for AIX client logical partitions] (https://www.ibm.com/support/knowledgecenter/en/POWER9/p9hb1/p9hb1_vios_mpio.htm)
-- [Virtual Fibre Channel] (https://www.ibm.com/support/knowledgecenter/9009-42A/p9hb1/p9hb1_vios_concepts_vfc.htm)
+- [Virtual I/O Server Performance advisor reports](https://www.ibm.com/support/knowledgecenter/en/POWER9/p9hb1/p9hb1_vios_perf_adv_reports.htm)
+- [Scenario: Configuring Multi-Path I/O for AIX client logical partitions](https://www.ibm.com/support/knowledgecenter/en/POWER9/p9hb1/p9hb1_vios_mpio.htm)
+- [Virtual Fibre Channel](https://www.ibm.com/support/knowledgecenter/9009-42A/p9hb1/p9hb1_vios_concepts_vfc.htm)
 - [The viosbr command](https://www.ibm.com/support/knowledgecenter/en/8284-21A/p8hcg/p8hcg_viosbr.htm)
 - [System Plans](https://www.ibm.com/support/knowledgecenter/9119-MHE/p8hc6/p8hc6_kickoff.htm)
 
