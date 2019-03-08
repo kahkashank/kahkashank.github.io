@@ -11,7 +11,7 @@ A **Senior Technical Writer**, with more than 10 years of experience in transfor
 ### Technical Writing Experience ###
 
 
-#### Jul 2010 - Sep 2018: Senior Technical Writer, [IBM India Pvt. Ltd.](https://www.ibm.com/ibm/in/en/) ####
+#### Jul 2010 - Sep 2018: Senior Technical Writer, [IBM](https://www.ibm.com/ibm/in/en/) ####
 
 At IBM, I created documentation for the IBM AIX operating system, running on IBM Power Systems™ servers and the related software, such as IBM PowerVM for server virtualization and IBM Power Systems Hardware Management Console (HMC).
 
@@ -27,10 +27,10 @@ At The Writers Block, I also managed small teams of technical writers and develo
 ### Key Work Responsibilities ###
 
 - **Gathering requirements**: Conducted interviews with product owners and other stakeholders to understand scope and intended audience for the documentation.
-- **Analysis**: Analyzed functional and technical specifications and worked with globally located development teams, as well as other technical writers, to obtain an in-depth understanding of the product and documentation requirements
+- **Analysis**: Analyzed functional and technical specifications and worked with globally located development teams, as well as other technical writers, to obtain an in-depth understanding of the product and documentation requirements.
 - **Authoring**: Wrote easy to understand technical documents for software and hardware virtualization products that meet the prescribed standards and style guidelines.
 - **Reviewing**: Facilitated reviews to ensure technical accuracy and high quality of the documentation.
-- **Mentoring**: Mentored and support new team members by creating learning plans, to help them understand the tools and processes in the team
+- **Mentoring**: Mentored and support new team members by creating learning plans, to help them understand the tools and processes in the team.
 - **Continuous Improvement**: Contribute to a Lean - Kaizen project that helped to improve the on-time delivery of project deliverables.
 - **Hiring**: Conducted phone screenings and facilitate tests for prospective technical writing candidates to help with the hiring process.
 - **Testing**: Contributed to the regression testing requirements for multiple releases of the IBM Power Systems Hardware Management Console (HMC), to ensure timely completion of testing activities.
@@ -38,8 +38,8 @@ At The Writers Block, I also managed small teams of technical writers and develo
 
 ### Other Experience ###
 
-- June 2006 - April 2007: Stores Helpdesk Support Officer, Tesco Hindustan Service Centre.
-- May 2003 - March 2006: Technical Support Officer, Convergys India Services Pvt. Ltd.
+- **June 2006 - April 2007**: Stores Helpdesk Support Officer, Tesco Hindustan Service Centre.
+- **May 2003 - March 2006**: Technical Support Officer, Convergys India Services Pvt. Ltd.
 
 ### Professional Skills ###
 
@@ -47,7 +47,7 @@ At The Writers Block, I also managed small teams of technical writers and develo
 - **Image and Vector Graphics Editing Tools**: Adobe Photoshop, Corel Designer, Inkscape, Microsoft Visio
 - **Presentation and Collaboration Tools**: Microsoft PowerPoint, Mural, Slack
 - **Project Management Tools**: Microsoft Project, Trello
-- **Screen Capturing Tools**: aintShop Pro, SnagIt
+- **Screen Capturing Tools**: PaintShop Pro, SnagIt
 - **Tutorials and Video Editing Tools**: Camtasia, Macromedia Captivate
 
 ### Key Strengths ###
