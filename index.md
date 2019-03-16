@@ -6,7 +6,7 @@
 
 ### Summary ###
 
-A **Senior Technical Writer**, with more than 10 years of experience in transforming complex technical information into easy-to-read, usable content, for a global audience. I am also an excellent communicator, with good organizational and problem-solving abilities—as they apply to the technical writing process, product development workflow, and project management—who completed all projects within the deadline and budgets. I specialize in core product documentation for the telecommunication, wireless, and enterprise server domains.
+A **Senior Technical Writer**, with more than 10 years of experience in transforming complex technical information into easy-to-read, usable content, for a global audience. I am also an excellent communicator, with good organizational and problem-solving abilities—as they apply to the technical writing process, product development workflow, and project management—who completed all projects within the deadlines and budgets. I specialize in core product documentation for the telecommunication, wireless, and enterprise server domains.
 
 ### Technical Writing Experience ###
 
@@ -28,7 +28,7 @@ At The Writers Block, I also managed small teams of technical writers and develo
 
 - **Gathering requirements**: Conducted interviews with product owners and other stakeholders to understand scope and intended audience for the documentation.
 - **Analysis**: Analyzed functional and technical specifications and worked with globally located development teams, as well as other technical writers, to obtain an in-depth understanding of the product and documentation requirements.
-- **Authoring**: Wrote easy to understand technical documents, such as user manuals, operations manuals, procedural guides, training manuals, administration guides, quick reference guides, and installation guides, for software and hardware virtualization products that meet the expected standards and style guidelines. Also, created videos, organized Twitter campaigns, and wrote marketing collaterals, such as white papers, case studies, proposals, technical articles, newsletters, and analytical reports.
+- **Authoring**: Wrote easy to understand technical documents, such as user manuals, operations manuals, procedural guides, training manuals, administration guides, quick reference guides, and installation guides, for software and hardware virtualization products that met the expected standards and style guidelines. Also, created videos, organized Twitter campaigns, and wrote marketing collaterals, such as white papers, case studies, proposals, technical articles, newsletters, and analytical reports.
 - **Reviewing**: Facilitated reviews to ensure technical accuracy and high quality of the documentation.
 - **Mentoring**: Mentored and support new team members by creating learning plans, to help them understand the tools and processes in the team.
 - **Continuous Improvement**: Contributed to a Lean - Kaizen project that helped to improve the on-time delivery of project deliverables.
