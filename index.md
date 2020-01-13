@@ -11,18 +11,32 @@ A **Senior Technical Writer**, with more than 10 years of experience in transfor
 ### Technical Writing Experience ###
 
 
+#### Jul 2019 - present: Documentation Specialist, [PIA Automation](https://www.piagroup.com/en/) ####
+
+- Work with product teams and read and interpret 3D CAD engineering drawings to produce high-quality documentation that is appropriate for its intended audience.
+- Write user manuals and other documents, explaining the installation, assembly, functionality, operations, and troubleshooting of the automotive automation production lines.
+- Create and maintain documentation templates.
+- Develop and implement a technical writing process and workflow.
+- Provide inputs to senior management and project planning to help in creating a documentation plan for upcoming projects.
+
+
+#### Apr 2019 - Jul 2019: Technical Writer, [Enbridge Gas](https://www.enbridgegas.com) ####
+
+- Conducted review, validation, and UAT of engineering manuals, technical documents, and engineering drawings and converted them from legacy file formats (Word and FrameMaker) into DITA XML format.
+- Imported the converted manuals into DITA CMS and validated them to ensure that they were free of errors.
+- Worked with product owners and SMEs in the engineering department to get the converted manuals approved.
+- Published the converted manuals.
+
 #### Jul 2010 - Sep 2018: Senior Technical Writer, [IBM](https://www.ibm.com/ibm/in/en/) ####
 
-At IBM, I created documentation for the IBM AIX operating system, running on IBM Power Systems™ servers and the related software, such as IBM PowerVM for server virtualization and IBM Power Systems Hardware Management Console (HMC).
-
-At IBM, I also created documentation for a Mobile Management Entity (MME) R&D project for a multinational data networking and telecommunications equipment client.
+- Created product and feature documentation, including operations manuals, training manuals, and installation manuals for the IBM AIX operating system, running on IBM Power Systems™ servers and the related software, such as IBM PowerVM for server virtualization and IBM Power Systems Hardware Management Console (HMC). Also created API documentation for HMC web services and validated API endpoints using Postman.
+- Created product documentation, including user manuals, operations manuals, procedural manuals, administration guides, quick reference guides, and installation manuals, for a Mobile Management Entity (MME) R&D project for a multinational data networking and telecommunications equipment client.
 
 
 #### Apr 2007 - Jun 2010: Senior Technical Writer, [The Writers Block](http://www.twb.in/) ####
 
-At The Writers Block, I created product documentation and marketing collaterals for 14 project deliveries for clients including a global cloud-based project portfolio management software solutions client, Genpact, Infosys, McAfee, Mindtree, a retirement solutions industry major, SAP Labs, and Sonata Software, working in industries including IT/ITES, manufacturing, pharmaceutical, financial, and healthcare, leading four offshore and three onsite projects.
-
-At The Writers Block, I also managed small teams of technical writers and developers, helped writers with learning curve difficulties, and resolved escalations.
+- Created a range of product documents and marketing collaterals, including user manuals, operations manuals, procedural manuals, training packages, quick reference guides, documentation templates, white papers, case studies, business and technical proposals, technical articles, newsletters, and analytical reports, for 14 project deliveries for clients, including a global cloud-based project portfolio management software solutions client, Genpact, Infosys, McAfee, Mindtree, a retirement solutions industry major, SAP Labs, and Sonata Software, working in industries including IT/ITES, manufacturing, pharmaceutical, financial, and healthcare, leading four offshore and three onsite projects.
+- Managed small teams of technical writers and developers, helped writers with learning curve difficulties, and resolved escalations. Also, helped with the recruitment process, by writing job descriptions, conducting phone screenings, and facilitating tests for prospective candidates.
 
 ### Key Work Responsibilities ###
 
