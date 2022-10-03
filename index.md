@@ -19,7 +19,7 @@ I specialize in core product documentation for the telecommunication, wireless, 
 
 - Transform client’s source documentation for clarity, quality, and usability.
 - Restructure and rewrite content for multichannel publishing. 
-- Assist as tech lead on clients in transformations, conversions, and transitions to a CCMS. 
+- Assist as tech lead on content transformations, conversions, and transitions to a CCMS. 
 - Build and implement the Accessibility policy for the company and drive Accessibility for Ontarians with Disabilities Act (AODA) compliance for every employee and the company.
 - Planned and organized events as a member of the social committee to foster bonding and boost employee morale.
 
