@@ -6,7 +6,11 @@
 
 ### Summary ###
 
-A **Senior Technical Writer**, with more than 10 years of experience in transforming complex technical information into easy-to-read, usable content, for a global audience. I am also an excellent communicator, with good organizational and problem-solving abilities—as they apply to the technical writing process, product development workflow, and project management—who completed all projects within the deadlines and budgets. I specialize in core product documentation for the telecommunication, wireless, and enterprise server domains.
+A result-oriented and highly motivated **Senior Technical Writer**, with over ten years of technical writing and project management experience. My project experience includes documenting user manuals, administration guides, troubleshooting guides, interface description documents, marketing collaterals (such as white papers, case studies, and proposals), training packages, Web content, and product presentations.
+
+I have strong business and technical skills and good organizational and project management abilities. I am extremely quick at learning new technologies and work well in a team, as well as an individual contributor.
+
+I specialize in core product documentation for the telecommunication, wireless, and enterprise server domains.
 
 ### Technical Writing Experience ###
 
