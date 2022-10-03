@@ -11,7 +11,13 @@ A **Senior Technical Writer**, with more than 10 years of experience in transfor
 ### Technical Writing Experience ###
 
 
-#### Jul 2019 - present: Documentation Specialist, [PIA Automation](https://www.piagroup.com/en/) ####
+#### Feb 2020 - present: Senior Technical Writer, [Precision Content Authoring Solutions Inc.]([https://www.ibm.com/ibm/in/en/](https://www.precisioncontent.com/)) ####
+
+- Created product and feature documentation, including operations manuals, training manuals, and installation manuals for the IBM AIX operating system, running on IBM Power Systems™ servers and the related software, such as IBM PowerVM for server virtualization and IBM Power Systems Hardware Management Console (HMC). Also created API documentation for HMC web services and validated API endpoints using Postman.
+- Created product documentation, including user manuals, operations manuals, interface description documents, procedural manuals, administration guides, quick reference guides, and installation manuals, or Nokia Siemens Network's Flexi NS (Network Server) Mobile Management Entity (MME) R&D project. Flexi NS implements the MME functionality for 3GPP Release 8 LTE architecture (4G mobile technology).
+
+
+#### Aug 2019 - Jan 2020: Documentation Specialist, [PIA Automation](https://www.piagroup.com/en/) ####
 
 - Work with product teams and read and interpret 3D CAD engineering drawings to produce high-quality documentation that is appropriate for its intended audience.
 - Write user manuals and other documents, explaining the installation, assembly, functionality, operations, and troubleshooting of the automotive automation production lines.
@@ -30,7 +36,7 @@ A **Senior Technical Writer**, with more than 10 years of experience in transfor
 #### Jul 2010 - Sep 2018: Senior Technical Writer, [IBM](https://www.ibm.com/ibm/in/en/) ####
 
 - Created product and feature documentation, including operations manuals, training manuals, and installation manuals for the IBM AIX operating system, running on IBM Power Systems™ servers and the related software, such as IBM PowerVM for server virtualization and IBM Power Systems Hardware Management Console (HMC). Also created API documentation for HMC web services and validated API endpoints using Postman.
-- Created product documentation, including user manuals, operations manuals, procedural manuals, administration guides, quick reference guides, and installation manuals, for a Mobile Management Entity (MME) R&D project for a multinational data networking and telecommunications equipment client.
+- Created product documentation, including user manuals, operations manuals, interface description documents, procedural manuals, administration guides, quick reference guides, and installation manuals, or Nokia Siemens Network's Flexi NS (Network Server) Mobile Management Entity (MME) R&D project. Flexi NS implements the MME functionality for 3GPP Release 8 LTE architecture (4G mobile technology).
 
 
 #### Apr 2007 - Jun 2010: Senior Technical Writer, [The Writers Block](http://www.twb.in/) ####
