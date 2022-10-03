@@ -11,19 +11,22 @@ A **Senior Technical Writer**, with more than 10 years of experience in transfor
 ### Technical Writing Experience ###
 
 
-#### Feb 2020 - present: Senior Technical Writer, [Precision Content Authoring Solutions Inc.]([https://www.ibm.com/ibm/in/en/](https://www.precisioncontent.com/)) ####
+#### Feb 2020 - present: Senior Technical Writer, [Precision Content Authoring Solutions Inc.](https://www.precisioncontent.com/) ####
 
-- Created product and feature documentation, including operations manuals, training manuals, and installation manuals for the IBM AIX operating system, running on IBM Power Systems™ servers and the related software, such as IBM PowerVM for server virtualization and IBM Power Systems Hardware Management Console (HMC). Also created API documentation for HMC web services and validated API endpoints using Postman.
-- Created product documentation, including user manuals, operations manuals, interface description documents, procedural manuals, administration guides, quick reference guides, and installation manuals, or Nokia Siemens Network's Flexi NS (Network Server) Mobile Management Entity (MME) R&D project. Flexi NS implements the MME functionality for 3GPP Release 8 LTE architecture (4G mobile technology).
+- Transform client’s source documentation for clarity, quality, and usability.
+- Restructure and rewrite content for multichannel publishing. 
+- Assist as tech lead on clients in transformations, conversions, and transitions to a CCMS. 
+- Build and implement the Accessibility policy for the company and drive Accessibility for Ontarians with Disabilities Act (AODA) compliance for every employee and the company.
+- Planned and organized events as a member of the social committee to foster bonding and boost employee morale.
 
 
 #### Aug 2019 - Jan 2020: Documentation Specialist, [PIA Automation](https://www.piagroup.com/en/) ####
 
-- Work with product teams and read and interpret 3D CAD engineering drawings to produce high-quality documentation that is appropriate for its intended audience.
-- Write user manuals and other documents, explaining the installation, assembly, functionality, operations, and troubleshooting of the automotive automation production lines.
-- Create and maintain documentation templates.
-- Develop and implement a technical writing process and workflow.
-- Provide inputs to senior management and project planning to help in creating a documentation plan for upcoming projects.
+- Worked with product teams and read and interpreted 3D CAD engineering drawings to produce high-quality documentation that is useful for its intended audience.
+- Wrote user manuals and other documents, explaining the installation, assembly, functionality, operations, and troubleshooting of the automotive automation production lines.
+- Created and maintained documentation templates.
+- Developed and implemented a technical writing process and workflow.
+- Provided inputs to senior management and project planning to help in creating a documentation plan for upcoming projects.
 
 
 #### Apr 2019 - Jul 2019: Technical Writer, [Enbridge Gas](https://www.enbridgegas.com) ####
@@ -63,10 +66,11 @@ A **Senior Technical Writer**, with more than 10 years of experience in transfor
 
 ### Professional Skills ###
 
-- **Authoring and Versioning Tools**: Adobe FrameMaker (Structured and Unstructured), Adobe RoboHelp, Arbortext Epic Editor, CMVC, Macromedia RoboHelp, MadCap Flare, Microsoft Word, oXygen XML Author, Webtop XDOC Version
-- **Image and Vector Graphics Editing Tools**: Adobe Photoshop, Corel Designer, Inkscape, Microsoft Visio, InDesign
+- **Authoring and Versioning Tools**: Adobe FrameMaker (Structured and Unstructured), Adobe RoboHelp, Arbortext Epic Editor, CMVC, Macromedia RoboHelp, Microsoft Word, oXygen XML Author and Editor, Webtop XDOC Version
+- **CCMS**: Adobe Experience Manager, Heretto (previously easyDITA), SDL Tridion Docs and Publication Manager
+- **Image and Vector Graphics Editing Tools**: Adobe Photoshop, Corel Designer, Inkscape, InDesign, Microsoft Visio
 - **Presentation and Collaboration Tools**: Microsoft PowerPoint, Mural, Slack
-- **Project Management Tools**: Microsoft Project, Trello
+- **Project Management Tools**: ClickUp, Microsoft Project, Pivotal Tracker, Trello, Upland
 - **Screen Capturing Tools**: PaintShop Pro, SnagIt
 - **Tutorials and Video Editing Tools**: Camtasia, Macromedia Captivate
 
