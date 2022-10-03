@@ -15,7 +15,7 @@ I specialize in core product documentation for the telecommunication, wireless, 
 ### Technical Writing Experience ###
 
 
-#### Feb 2020 - present: Senior Technical Writer, [Precision Content Authoring Solutions Inc.](https://www.precisioncontent.com/) ####
+#### Feb 2020 - present: Content Specialist, [Precision Content Authoring Solutions Inc.](https://www.precisioncontent.com/) ####
 
 - Transform client’s source documentation for clarity, quality, and usability.
 - Restructure and rewrite content for multichannel publishing. 
