@@ -21,7 +21,7 @@ I specialize in core product documentation for the telecommunication, wireless, 
 - Restructure and rewrite content for multichannel publishing. 
 - Assist as tech lead on content transformations, conversions, and transitions to a CCMS. 
 - Build and implement the Accessibility policy for the company and drive Accessibility for Ontarians with Disabilities Act (AODA) compliance for every employee and the company.
-- Planned and organized events as a member of the social committee to foster bonding and boost employee morale.
+- Plan and organize events as a member of the social committee, to foster bonding and boost employee morale.
 
 
 #### Aug 2019 - Jan 2020: Documentation Specialist, [PIA Automation](https://www.piagroup.com/en/) ####
@@ -42,8 +42,15 @@ I specialize in core product documentation for the telecommunication, wireless, 
 
 #### Jul 2010 - Sep 2018: Senior Technical Writer, [IBM](https://www.ibm.com/ibm/in/en/) ####
 
-- Created product and feature documentation, including operations manuals, training manuals, and installation manuals for the IBM AIX operating system, running on IBM Power Systems™ servers and the related software, such as IBM PowerVM for server virtualization and IBM Power Systems Hardware Management Console (HMC). Also created API documentation for HMC web services and validated API endpoints using Postman.
-- Created product documentation, including user manuals, operations manuals, interface description documents, procedural manuals, administration guides, quick reference guides, and installation manuals, or Nokia Siemens Network's Flexi NS (Network Server) Mobile Management Entity (MME) R&D project. Flexi NS implements the MME functionality for 3GPP Release 8 LTE architecture (4G mobile technology).
+##### For the IBM AIX operating system #####
+- Created product and feature documentation, including operations manuals, training manuals, and installation manuals for the IBM AIX operating system, running on IBM Power Systems™ servers and the related software, such as IBM PowerVM for server virtualization and IBM Power Systems Hardware Management Console (HMC). Documentation included updating the utilities and commands for the HMC, Virtual I/O Server, and Integrated Virtualization Manager (IVM).
+- Analyzed user stories for the sprint to identify and define documentation requirements in existing manuals.
+- Created API documentation for HMC web services and validated API endpoints using Postman.
+
+##### For Nokia Siemens Network's Flexi NS MME #####
+- Created product documentation, including user manuals, operations manuals, interface description documents, procedural manuals, administration guides, quick reference guides, and installation manuals, for Nokia Siemens Network's Flexi NS (Network Server) Mobile Management Entity (MME) R&D project. Flexi NS implements the MME functionality for 3GPP Release 8 LTE architecture (4G mobile technology).
+- Analyzed user stories for the sprint to identify and define documentation requirements in existing manuals.
+- Worked with Subject Matter Experts (SMEs) to identify requirements to build and create new manuals.
 
 
 #### Apr 2007 - Jun 2010: Senior Technical Writer, [The Writers Block](http://www.twb.in/) ####
@@ -55,7 +62,7 @@ I specialize in core product documentation for the telecommunication, wireless, 
 
 - **Gathering requirements**: Conducted interviews with product owners and other stakeholders to understand scope and intended audience for the documentation.
 - **Analysis**: Analyzed functional and technical specifications and worked with globally located development teams, as well as other technical writers, to obtain an in-depth understanding of the product and documentation requirements.
-- **Authoring**: Wrote easy to understand technical documents, such as **user manuals**, **operations manuals**, **procedural guides**, **training manuals**, **administration guides**, **quick reference guides**, and **installation guides**, for software and hardware virtualization products that met the expected standards and style guidelines. Also, created **videos**, organized Twitter campaigns, and wrote marketing collaterals, such as **white papers**, **case studies**, **proposals**, **technical articles**, **newsletters**, and **analytical reports**.
+- **Authoring**: Wrote easy to understand technical documents, such as **user manuals**, **operations manuals**, **interface description documents** **procedural guides**, **training manuals**, **administration guides**, **quick reference guides**, and **installation guides**, for software and hardware virtualization products that met the expected standards and style guidelines. Also, created **videos**, organized Twitter campaigns, and wrote marketing collaterals, such as **white papers**, **case studies**, **proposals**, **technical articles**, **newsletters**, and **analytical reports**.
 - **Reviewing**: Facilitated reviews to ensure technical accuracy and high quality of the documentation.
 - **Mentoring**: Mentored and support new team members by creating learning plans, to help them understand the tools and processes in the team.
 - **Continuous Improvement**: Contributed to a Lean - Kaizen project that helped to improve the on-time delivery of project deliverables.
