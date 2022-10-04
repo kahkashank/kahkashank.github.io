@@ -17,7 +17,7 @@ I specialize in core product documentation for the telecommunication, wireless, 
 
 #### Feb 2020 - present: Content Specialist, [Precision Content Authoring Solutions Inc.](https://www.precisioncontent.com/) ####
 
-- Transform client’s source documentation for clarity, quality, and usability.
+- Transform a client’s source documentation for clarity, quality, and usability.
 - Restructure and rewrite content for multichannel publishing. 
 - Assist as tech lead on content transformations, conversions, and transitions to a CCMS. 
 - Build and implement the Accessibility policy for the company and drive Accessibility for Ontarians with Disabilities Act (AODA) compliance for every employee and the company.
