@@ -6,39 +6,40 @@
 
 ### Summary ###
 
-A result-oriented and highly motivated **Senior Technical Writer**, with over ten years of technical writing and project management experience. My project experience includes documenting user manuals, administration guides, troubleshooting guides, interface description documents, marketing collaterals (such as white papers, case studies, and proposals), training packages, Web content, and product presentations.
-
-I have strong business and technical skills and good organizational and project management abilities. I am extremely quick at learning new technologies and work well in a team, as well as an individual contributor.
-
-I specialize in core product documentation for the telecommunication, wireless, and enterprise server domains.
+Highly motivated, proficient **senior technical writer** with over 15 years of professional experience, specializing in
+core product documentation for the telecommunication, wireless, and enterprise server domains. Adept at simplifying complex technical concepts and collaborating effectively with cross-functional teams and subject matter experts to deliver accurate and engaging content. Skilled in documentation tools and project management and passionate about analyzing content and organizing it into logical chunks to
+create well-designed and accessible documentation for technical and non-technical users.
 
 ### Technical Writing Experience ###
 
 
-#### Feb 2020 - present: Content Specialist, [Precision Content Authoring Solutions Inc.](https://www.precisioncontent.com/) ####
+#### Feb 2020 - Aug 2023: Content Specialist, [Precision Content Authoring Solutions Inc.](https://www.precisioncontent.com/) ####
 
-- Transform a client’s source documentation for clarity, quality, and usability using Precision Content's authoring model.
-- Restructure and rewrite content for multichannel publishing. 
-- Assist as tech lead on content transformations, conversions, and transitions to a CCMS. 
-- Build and implement the Accessibility policy for the company and drive Accessibility for Ontarians with Disabilities Act (AODA) compliance for every employee and the company.
-- Plan and organize events as a member of the social committee, to foster bonding and boost employee morale.
+- Proficiently transformed client source documentation into XML using Precision Content's content model, PCDITA, and the DITA specification
+- Analyzed, restructured, and rewrote content for multichannel publishing for clients in the high-tech, healthcare, pharmaceutical, financial, and insurance services industries, enabling efficient dissemination of information across various platforms, enhancing accessibility for diverse audiences
+- Played a pivotal role in the team that helped a multinational pharmaceutical company’s authoring team’s transformation from traditional authoring to component authoring, resulting in improved consistency, enhanced reuse, and an elevated overall user experience
+- Enabled a nonprofit American academic medical centre to create highly structured medical narrative content with the capability to output to multiple channels and for multiple audiences, including consumers, patients, and medical professionals, using Adobe Experience Manager Guides and Sites
+- Created proof-of-concept documents and transformed source documentation to showcase the value of Precision Content's writing methodology, aiding in client buy-in and engagement
+- Enhanced the Knowledge Base of a high-tech client from traditional Word-based authoring to topic-based authoring using MadCap Flare to enable multi-channel publishing
+- Led client projects related to content transformation, conversion, and transition to a Component Content Management System for clients across industries, ensuring successful project outcomes and client satisfaction
+- Spearheaded the development and implementation of the accessibility policy for the company, ensuring compliance with the Accessibility for Ontarians with Disabilities Act for all employees
+- Managed Acrolinx instances, resolving complex content governance issues for multiple clients, and provided administrator training to both internal and external clients, enhancing content quality
 
 
 #### Aug 2019 - Jan 2020: Documentation Specialist, [PIA Automation](https://www.piagroup.com/en/) ####
 
-- Worked with product teams and read and interpreted 3D CAD engineering drawings to produce high-quality documentation that is useful for its intended audience.
-- Wrote user manuals and other documents, explaining the installation, assembly, functionality, operations, and troubleshooting of the automotive automation production lines.
-- Created and maintained documentation templates.
-- Developed and implemented a technical writing process and workflow.
-- Provided inputs to senior management and project planning to help in creating a documentation plan for upcoming projects.
+- Collaborated with cross-functional product teams to interpret 3D CAD engineering drawings, creating precise and audience-appropriate documentation, enhancing product understanding
+- Authored comprehensive user manuals and instructional documents, offering clear explanations for the installation, assembly, functionality, operation, and troubleshooting of automotive production lines
+- Established and maintained documentation templates for the entire documentation package, verifying consistency and facilitating document reuse, which saved time and improved quality
+- Developed and implemented an efficient technical writing process and workflow, optimizing documentation creation and streamlining the review and approval process
 
 
 #### Apr 2019 - Jul 2019: Technical Writer, [Enbridge Gas](https://www.enbridgegas.com) ####
 
-- Conducted review, validation, and UAT of engineering manuals, technical documents, and engineering drawings and converted them from legacy file formats (Word and FrameMaker) into DITA XML format.
-- Imported the converted manuals into DITA CMS and validated them to ensure that they were free of errors.
-- Worked with product owners and SMEs in the engineering department to get the converted manuals approved.
-- Published the converted manuals.
+- Conducted the review, validation, and User Acceptance Testing of engineering manuals, technical documents, and engineering drawings, transforming them from legacy file formats into DITA XML format
+- Imported the converted manuals into DITA CMS and meticulously validated them to ensure error-free documentation, facilitating efficient content management and retrieval
+- Collaborated closely with product owners and Subject Matter Experts within the engineering department to secure approval for converted manuals, aligning with technical accuracy and compliance standards
+
 
 #### Jul 2010 - Sep 2018: Senior Technical Writer, [IBM](https://www.ibm.com/ibm/in/en/) ####
 
@@ -60,12 +61,12 @@ I specialize in core product documentation for the telecommunication, wireless, 
 
 ### Key Work Responsibilities ###
 
-- **Gathering requirements**: Conducted interviews with product owners and other stakeholders to understand scope and intended audience for the documentation.
+- **Gathering requirements**: Conducted interviews with product owners and other stakeholders to understand the scope and intended audience for the documentation.
 - **Analysis**: Analyzed functional and technical specifications and worked with globally located development teams, as well as other technical writers, to obtain an in-depth understanding of the product and documentation requirements.
 - **Authoring**: Wrote easy to understand technical documents, such as **user manuals**, **operations manuals**, **interface description documents** **procedural guides**, **training manuals**, **administration guides**, **quick reference guides**, and **installation guides**, for software and hardware virtualization products that met the expected standards and style guidelines. Also, created **videos**, organized Twitter campaigns, and wrote marketing collaterals, such as **white papers**, **case studies**, **proposals**, **technical articles**, **newsletters**, and **analytical reports**.
 - **Reviewing**: Facilitated reviews to ensure technical accuracy and high quality of the documentation.
-- **Mentoring**: Mentored and support new team members by creating learning plans, to help them understand the tools and processes in the team.
-- **Continuous Improvement**: Contributed to a Lean - Kaizen project that helped to improve the on-time delivery of project deliverables.
+- **Mentoring**: Mentored and supported new team members by creating learning plans, to help them understand the tools and processes in the team.
+- **Continuous Improvement**: Contributed to a Lean-Kaizen project that helped to improve the on-time delivery of project deliverables.
 - **Hiring**: Conducted phone screenings and facilitated tests for prospective technical writing candidates to help with the hiring process.
 - **Testing**: Contributed to the regression testing requirements for multiple releases of the IBM Power Systems Hardware Management Console (HMC), to ensure timely completion of testing activities.
 
@@ -104,8 +105,10 @@ I specialize in core product documentation for the telecommunication, wireless, 
 
 ### Education ###
 
-- Certification in IBM Design Thinking Practitioner program from IBM.
-- Fundamental Certification Program in Technical Writing from The Writers Block.
-- Master of Arts (MA) degree in English Literature from Lucknow University.
+- Master of Arts (MA) degree in English Literature, University of Lucknow
+- Fundamental Certification Program in Technical Writing, The Writers Block
+- Certification in IBM Design Thinking Practitioner program, IBM
+- Certification in Writing in the Sciences, Stanford Online
+
 
 
