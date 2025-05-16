@@ -12,7 +12,7 @@ Highly motivated and accomplished Senior Technical Writer with over 15 years of 
 
 <ul>
   <li>Technical Writing & Editing</li>
-  <li>Cybersecurity & Cloud Documentation</li>
+  <li>Cybersecurity, SaaS, & Cloud Documentation</li>
   <li>Topic-Based Authoring</li>
   <li>Research & Audience Analysis</li>
   <li>Agile & DevOps Collaboration</li>
