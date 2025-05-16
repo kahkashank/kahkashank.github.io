@@ -4,13 +4,21 @@
 
 ### Summary ###
 
-Highly motivated and accomplished Senior Technical Writer with over 15 years of experience crafting documentation for cybersecurity, cloud, SaaS, telecom, and healthcare industries. Passionate about translating complex technical concepts into clear, user-centric documentation, including user guides, system integration manuals, and troubleshooting content. Demonstrated success in agile environments, driving content accuracy and cross-functional collaborations. Currently delivering high-impact communication strategies at Google Cloud through Cognizant, aligning with global standards and timelines.
+Highly motivated and accomplished Senior Technical Writer with over 15 years of experience crafting documentation for cybersecurity, cloud, SaaS, telecom, and healthcare industries. Passionate about translating complex technical concepts into clear, user-centric documentation, including user guides, system integration manuals, and troubleshooting content. Demonstrated success in agile environments, driving content accuracy and cross-functional collaborations, and currently delivering high-impact communication strategies at Google Cloud through Cognizant, aligning with global standards and timelines.
 
 ### Core Competencies ###
 
-```
-Technical Writing & Editing | Cybersecurity & Cloud Documentation | Topic-Based Authoring | Research & Audience Analysis | Agile & DevOps Collaboration | API Documentation | Cross-Functional Team Collaboration | Content Governance & QA | Multichannel Publishing & Reuse Optimization | Project Leadership | Structured Authoring (DITA, XML)
-```
+- Technical Writing & Editing  
+- Cybersecurity & Cloud Documentation  
+- Topic-Based Authoring  
+- Research & Audience Analysis  
+- Agile & DevOps Collaboration  
+- API Documentation  
+- Cross-Functional Team Collaboration  
+- Content Governance & QA  
+- Multichannel Publishing & Reuse Optimization  
+- Project Leadership  
+- Structured Authoring (DITA, XML)
 
 
 ### Technical Skills ###
