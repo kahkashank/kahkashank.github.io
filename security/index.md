@@ -29,20 +29,6 @@ Highly motivated and accomplished Senior Technical Writer with over 15 years of 
 
 </div>
 
-### Core Competencies ###
-
-- Technical Writing & Editing  
-- Cybersecurity & Cloud Documentation  
-- Topic-Based Authoring  
-- Research & Audience Analysis  
-- Agile & DevOps Collaboration  
-- API Documentation  
-- Cross-Functional Team Collaboration  
-- Content Governance & QA  
-- Multichannel Publishing & Reuse Optimization  
-- Project Leadership  
-- Structured Authoring (DITA, XML)
-
 
 ### Technical Skills ###
 
