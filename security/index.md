@@ -10,22 +10,22 @@ Highly motivated and accomplished Senior Technical Writer with over 15 years of 
 
 <div style="display: flex; justify-content: space-between; gap: 40px;">
 
-<br><ul>
+<ul>
   <li>Technical Writing & Editing</li>
   <li>Cybersecurity & Cloud Documentation</li>
   <li>Topic-Based Authoring</li>
   <li>Research & Audience Analysis</li>
   <li>Agile & DevOps Collaboration</li>
   <li>API Documentation</li>
-</ul></br>
+</ul>
 
-<br><ul>
+<ul>
   <li>Cross-Functional Team Collaboration</li>
   <li>Content Governance & QA</li>
   <li>Multichannel Publishing & Reuse Optimization</li>
   <li>Project Leadership</li>
   <li>Structured Authoring (DITA, XML)</li>
-</ul></br>
+</ul>
 
 </div>
 
