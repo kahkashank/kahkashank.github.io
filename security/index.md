@@ -1,8 +1,3 @@
----
-layout: default
-title: Resume
----
-
 **Email:** [kahkashan.kazmi@gmail.com](kahkashan.kazmi@gmail.com)
 
 **LinkedIn:** [https://www.linkedin.com/in/kahkashan-kazmi-tech-writer/](https://www.linkedin.com/in/kahkashan-kazmi-tech-writer/)
@@ -13,19 +8,22 @@ Highly motivated and accomplished Senior Technical Writer with over 15 years of 
 
 ### Core Competencies ###
 
+```
 Technical Writing & Editing | Cybersecurity & Cloud Documentation | Topic-Based Authoring | Research & Audience Analysis | Agile & DevOps Collaboration | API Documentation | Cross-Functional Team Collaboration | Content Governance & QA | Multichannel Publishing & Reuse Optimization | Project Leadership | Structured Authoring (DITA, XML)
+```
+
 
 ### Technical Skills ###
 
-**Authoring Tools**: MadCap Flare, Adobe FrameMaker, Oxygen XML Editor, Arbortext Epic Editor
-**CCMS & CMS**: Adobe Experience Manager (AEM Guides), Heretto, IXIASOFT, Vasont
-**Languages & Formats**: XML, HTML, Markdown, DITA, PCDITA, JavaScript
-**API & Testing Tools**: Postman, Swagger/OpenAPI
-**Version Control**: Git, GitHub, Bitbucket, Google's CIDER, IBM CMVC
-**Diagramming & Workflow**: Lucidchart, Microsoft Visio
-**Governance & Quality**: Acrolinx 
-**Collaboration Platforms**: Jira, Confluence, Trello, Slack, Buganizer
-**Platforms**: Google Cloud Platform (GCP), IBM Power Systems
+- **Authoring Tools**: MadCap Flare, Adobe FrameMaker, Oxygen XML Editor, Arbortext Epic Editor  
+- **CCMS & CMS**: Adobe Experience Manager (AEM Guides), Heretto, IXIASOFT, Vasont  
+- **Languages & Formats**: XML, HTML, Markdown, DITA, PCDITA, JavaScript  
+- **API & Testing Tools**: Postman, Swagger/OpenAPI  
+- **Version Control**: Git, GitHub, Bitbucket, Google's CIDER, IBM CMVC
+- **Diagramming & Workflow**: Lucidchart, Microsoft Visio
+- **Governance & Quality**: Acrolinx
+- **Collaboration Platforms**: Jira, Confluence, Trello, Slack, Buganizer  
+- **Platforms**: Google Cloud Platform (GCP), IBM Power Systems  
 
 ### Professional Experience ###
 
