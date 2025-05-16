@@ -1,16 +1,47 @@
----
-layout: default
-title: Resume
----
-
-
 **Email:** [kahkashan.kazmi@gmail.com](kahkashan.kazmi@gmail.com)
 
 **LinkedIn:** [https://www.linkedin.com/in/kahkashan-kazmi-tech-writer/](https://www.linkedin.com/in/kahkashan-kazmi-tech-writer/)
 
-**X:** [https://twitter.com/ThoseKaySayers](https://twitter.com/ThoseKaySayers)
+### Summary ###
+
+Highly motivated and accomplished Senior Technical Writer with over 15 years of experience crafting documentation for cybersecurity, cloud, SaaS, telecom, and healthcare industries. Passionate about translating complex technical concepts into clear, user-centric documentation, including user guides, system integration manuals, and troubleshooting content. Demonstrated success in agile environments, driving content accuracy and cross-functional collaborations. Currently delivering high-impact communication strategies at Google Cloud through Cognizant, aligning with global standards and timelines.
+
+### Core Competencies ###
+
+Technical Writing & Editing | Cybersecurity & Cloud Documentation | Topic-Based Authoring | Research & Audience Analysis | Agile & DevOps Collaboration | API Documentation | Cross-Functional Team Collaboration | Content Governance & QA | Multichannel Publishing & Reuse Optimization | Project Leadership | Structured Authoring (DITA, XML)
+
+### Technical Skills ###
+
+**Authoring Tools**: MadCap Flare, Adobe FrameMaker, Oxygen XML Editor, Arbortext Epic Editor
+**CCMS & CMS**: Adobe Experience Manager (AEM Guides), Heretto, IXIASOFT, Vasont
+**Languages & Formats**: XML, HTML, Markdown, DITA, PCDITA, JavaScript
+**API & Testing Tools**: Postman, Swagger/OpenAPI
+**Version Control**: Git, GitHub, Bitbucket, Google's CIDER, IBM CMVC
+**Diagramming & Workflow**: Lucidchart, Microsoft Visio
+**Governance & Quality**: Acrolinx 
+**Collaboration Platforms**: Jira, Confluence, Trello, Slack, Buganizer
+**Platforms**: Google Cloud Platform (GCP), IBM Power Systems
+
+### Professional Experience ###
 
 
+#### Oct 2023 - Present: Senior Technical Writer, [Cognizant Technology Solutions (Google Canada Project)](https://www.cognizant.com/ca/en) ####
+
+- Delivered high-stakes service announcements for global audiences on Google Cloud, translating technical content into clear, outcome-driven documentation
+- Developed and executed end-to-end documentation strategies across product phases with a focus on compliance and accessibility (WCAG/AODA)
+- Drove cross-functional collaboration with engineering, product, legal, and support teams to ensure accurate, compliant, and aligned messaging across all documentation touchpoints
+- Mapped workflows and documented edge-case behavior, building process diagrams to identify risks and improve operational readiness
+
+
+#### Feb 2020 - Aug 2023: Content Specialist, [Precision Content Authoring Solutions Inc.](https://www.precisioncontent.com/) ####
+
+- Restructured and rewrote documentation for high-tech, healthcare, and financial, insurance and security clients using topic-based authoring (PCDITA/DITA)
+- Conducted research, analysis, user testing to validate and align documentation with user needs and technical accuracy.
+- Led content transformation projects, including migrations to CCMSs and AEM, enhancing discoverability and reuse.
+- Managed client-facing accessibility and compliance projects, enabling multichannel publishing across diverse user groups.
+- Oversaw Acrolinx deployments and training, improving documentation quality and governance.
+- Spearheaded the development and implementation of the accessibility policy for the company, ensuring compliance with the Accessibility for Ontarians with Disabilities Act for all employees
+- Managed Acrolinx instances, resolving complex content governance issues for multiple clients, and provided administrator training to both internal and external clients, enhancing content quality
 
 
 #### Aug 2019 - Jan 2020: Documentation Specialist, [PIA Automation](https://www.piagroup.com/en/) ####
@@ -23,67 +54,30 @@ title: Resume
 
 #### Apr 2019 - Jul 2019: Technical Writer, [Enbridge Gas](https://www.enbridgegas.com) ####
 
-- Conducted the review, validation, and User Acceptance Testing of engineering manuals, technical documents, and engineering drawings, transforming them from legacy file formats into DITA XML format
+- Conducted review, validation, and User Acceptance Testing of engineering manuals, technical documents, and engineering drawings, transforming them from legacy file formats into DITA XML format
 - Imported the converted manuals into DITA CMS and meticulously validated them to ensure error-free documentation, facilitating efficient content management and retrieval
 - Collaborated closely with product owners and Subject Matter Experts within the engineering department to secure approval for converted manuals, aligning with technical accuracy and compliance standards
 
 
 #### Jul 2010 - Sep 2018: Senior Technical Writer, [IBM](https://www.ibm.com/ibm/in/en/) ####
 
-##### For the IBM AIX operating system #####
-- Created product and feature documentation, including operations manuals, training manuals, and installation manuals for the IBM AIX operating system, running on IBM Power Systems™ servers and the related software, such as IBM PowerVM for server virtualization and IBM Power Systems Hardware Management Console (HMC). Documentation included updating the utilities and commands for the HMC, Virtual I/O Server, and Integrated Virtualization Manager (IVM).
-- Analyzed user stories for the sprint to identify and define documentation requirements in existing manuals.
-- Created API documentation for HMC web services and validated API endpoints using Postman.
-
-##### For Nokia Siemens Network's Flexi NS MME #####
-- Created product documentation, including user manuals, operations manuals, interface description documents, procedural manuals, administration guides, quick reference guides, and installation manuals, for Nokia Siemens Network's Flexi NS (Network Server) Mobile Management Entity (MME) R&D project. Flexi NS implements the MME functionality for 3GPP Release 8 LTE architecture (4G mobile technology).
-- Analyzed user stories for the sprint to identify and define documentation requirements in existing manuals.
-- Worked with Subject Matter Experts (SMEs) to identify requirements to build and create new manuals.
+- Enhanced complex content for multichannel publishing for clients in the high-tech, healthcare, pharmaceutical, telecom, and wireless industries, facilitating effective distribution of information across diverse platforms using Oxygen XML Editor
+- Developed product and feature documentation for the IBM AIX operating system, encompassing operations manuals, training manuals, and installation manuals on IBM Power Systems servers
+- Analyzed user stories within an Agile development environment to identify new features and refine documentation requirements in existing manuals
+- Created API documentation for HMC web services and conducted validation of API endpoints using Postman, facilitating user understanding and integration of HMC web services
 
 
 #### Apr 2007 - Jun 2010: Senior Technical Writer, [The Writers Block](http://www.twb.in/) ####
 
-- Created a range of product documents and marketing collaterals, including user manuals, operations manuals, procedural manuals, training packages, quick reference guides, documentation templates, white papers, case studies, business and technical proposals, technical articles, newsletters, and analytical reports, for 14 project deliveries for clients, including a global cloud-based project portfolio management software solutions client, Genpact, Infosys, McAfee, Mindtree, a retirement solutions industry major, SAP Labs, and Sonata Software, working in industries including IT/ITES, manufacturing, pharmaceutical, financial, and healthcare, leading four offshore and three onsite projects.
-- Managed small teams of technical writers and developers, helped writers with learning curve difficulties, and resolved escalations. Also, helped with the recruitment process, by writing job descriptions, conducting phone screenings, and facilitating tests for prospective candidates.
+- Created a wide range of product documents, including user manuals, operations manuals, procedural manuals, integration guides, training packages, quick reference guides, and online Help
+- Developed diverse marketing collaterals including documentation templates, white papers, case studies, business and technical proposals, technical articles, newsletters, and analytical reports
+- Managed small teams of technical writers and developers, providing mentorship to assist team members in overcoming learning curve challenges and addressing escalations effectively
 
-### Key Work Responsibilities ###
-
-- **Gathering requirements**: Conducted interviews with product owners and other stakeholders to understand the scope and intended audience for the documentation.
-- **Analysis**: Analyzed functional and technical specifications and worked with globally located development teams, as well as other technical writers, to obtain an in-depth understanding of the product and documentation requirements.
-- **Authoring**: Wrote easy to understand technical documents, such as **user manuals**, **operations manuals**, **interface description documents** **procedural guides**, **training manuals**, **administration guides**, **quick reference guides**, and **installation guides**, for software and hardware virtualization products that met the expected standards and style guidelines. Also, created **videos**, organized Twitter campaigns, and wrote marketing collaterals, such as **white papers**, **case studies**, **proposals**, **technical articles**, **newsletters**, and **analytical reports**.
-- **Reviewing**: Facilitated reviews to ensure technical accuracy and high quality of the documentation.
-- **Mentoring**: Mentored and supported new team members by creating learning plans, to help them understand the tools and processes in the team.
-- **Continuous Improvement**: Contributed to a Lean-Kaizen project that helped to improve the on-time delivery of project deliverables.
-- **Hiring**: Conducted phone screenings and facilitated tests for prospective technical writing candidates to help with the hiring process.
-- **Testing**: Contributed to the regression testing requirements for multiple releases of the IBM Power Systems Hardware Management Console (HMC), to ensure timely completion of testing activities.
-
-
-### Other Experience ###
-
-- **June 2006 - April 2007**: Stores Helpdesk Support Officer, Tesco Hindustan Service Centre.
-- **May 2003 - March 2006**: Technical Support Officer, Convergys India Services Pvt. Ltd.
-
-### Professional Skills ###
-
-- **Authoring and Versioning Tools**: Adobe FrameMaker (Structured and Unstructured), Adobe RoboHelp, Arbortext Epic Editor, CMVC, Macromedia RoboHelp, Microsoft Word, oXygen XML Author and Editor, Webtop XDOC Version
-- **CCMS**: Adobe Experience Manager, Heretto (previously easyDITA), SDL Tridion Docs and Publication Manager
-- **Image and Vector Graphics Editing Tools**: Adobe Photoshop, Corel Designer, Inkscape, InDesign, Microsoft Visio
-- **Presentation and Collaboration Tools**: Microsoft PowerPoint, Mural, Slack
-- **Project Management Tools**: ClickUp, Microsoft Project, Pivotal Tracker, Trello, Upland
-- **Screen Capturing Tools**: PaintShop Pro, SnagIt
-- **Tutorials and Video Editing Tools**: Camtasia, Macromedia Captivate
-
-### Key Strengths ###
-
-- Expertise in planning, managing, and executing projects as an individual contributor, as well as a team player.
-- Innovative and quick problem-solving abilities, with attention to detail.
-- The ability to discuss, identify opportunities, and apply basic IBM Design Thinking concepts.
-- Extensive experience in the application of Lean principles, Agile methodologies, and the Scrum framework in software development.
-- Excellent written and interpersonal communication skills.
 
 ### Work Samples ## 
 
 - [Managing the virtualization environment](https://www.ibm.com/support/knowledgecenter/en/POWER9/p9efd/p9efd_kickoff.htm) ([PDF version](http://public.dhe.ibm.com/systems/power/docs/hw/p9/p9efd.pdf)) [.](#work-samples)
+- [Cybersecurity documentation samples for a fictional product](https://kahkashank.github.io/security/sample-epsilonx)
 - [Virtual I/O Server Performance advisor reports](https://www.ibm.com/support/knowledgecenter/en/POWER9/p9hb1/p9hb1_vios_perf_adv_reports.htm) 
 - [Scenario: Configuring Multi-Path I/O for AIX client logical partitions](https://www.ibm.com/support/knowledgecenter/en/POWER9/p9hb1/p9hb1_vios_mpio.htm)
 - [Virtual Fibre Channel](https://www.ibm.com/support/knowledgecenter/9009-42A/p9hb1/p9hb1_vios_concepts_vfc.htm)
