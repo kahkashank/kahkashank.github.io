@@ -45,7 +45,7 @@ Highly motivated and accomplished Senior Technical Writer with over 15 years of 
 ### Professional Experience ###
 
 
-#### Senior Technical Writer, [Cognizant Technology Solutions (Google Canada Project)](https://www.cognizant.com/ca/en) - Oct 2023 - Present ####
+#### Senior Technical Writer | [Cognizant Technology Solutions (Google Canada Project)](https://www.cognizant.com/ca/en) | Oct 2023 - Present ####
 
 - Delivered high-stakes service announcements for global audiences on Google Cloud, translating technical content into clear, outcome-driven documentation
 - Developed and executed end-to-end documentation strategies across product phases with a focus on compliance and accessibility (WCAG/AODA)
